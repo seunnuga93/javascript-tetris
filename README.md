@@ -9,16 +9,12 @@ An HTML5 Tetris Game
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-FUTURE
-======
+Run with Docker
+===============
 
- * menu
- * animation and fx
- * levels
- * high scores
- * touch support
- * music and sound fx
+`docker run -p 8080:80 lrakai/tetris`
 
+and access the game on port 8080.
 
 License
 =======
